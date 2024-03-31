@@ -1,6 +1,53 @@
+# React Portfolio
+
+mAIte is a chatbot project developed for text generation, image generation, and motion generation. Link to deployed application: https://maite10.netlify.app/
+
+
+## Description
+
+This project has two main features:
+
+- **Text Generation**: Generates contextually relevant text based on user inputs.
+- **Still and Moving Image Generation**: Generates still and dynamic images based on specific requests.
+
+
+## Table of Contents
+
+* [Usage](#usage)
+* [Code](#code)
+* [Credits](#credits)
+* [License](#license)
+
+## Usage
+
+When the user enters the website they will come across a home page presenting two main sections which they can navigate to.
+
+![Screenshot of home page](./src/assets/images/Screenshot1.png)
+</center>
+
+The 'Projects' section displays several projects I have completed as a front-end developer, including title, screenshot, and the relevant links to visit the individual projects.
+
+![Screenshot of projects page of portfolio website](public/images/screenshotpage2.png)
+
+The 'Contact' section displays a form which the user can use to send me a message, and displays my relevant contact information.
+
+![Screenshot of contact page of portfolio website](public/images/screenshotpage3.png)
+
+## Code
+
+The development of this application used mainly React, React Router, JavaScript, HTML, CSS, Bootstrap, JSON and Node.js. 
+
+## Credits
+
+I have used Google, AI, React and Bootstrap documentation to research the information I needed to complete this.
+
+## License
+
+Licensed under the MIT license.
+
 # mAIte Chatbot
 
-mAIte is an innovative chatbot project developed for text generation, image generation, and motion generation, utilizing cutting-edge technologies such as React JavaScript, Material-UI, Node.js, and Axios.
+
 
 ## Features
 
