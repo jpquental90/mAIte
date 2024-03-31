@@ -23,16 +23,16 @@ This project has two main features:
 
 When the user enters the website they will come across a home page presenting two main sections which they can navigate to.
 
-![Screenshot of home page](./src/assets/images/Screenshot1.png)
+![Screenshot of home page](./public/images/Screenshot1.png)
 </center>
 
 The 'Chat AI' has a text generation function, allowing the user to interact with the platform and obtain contextually relevant responses.
 
-![Screenshot of Chat AI page](./src/assets/images/Screenshot2.png)
+![Screenshot of Chat AI page](./public/images/Screenshot2.png)
 
 The 'Image AI' section has two buttons which enable the user to generate still and moving images according to their specifications.
 
-![Screenshot of Image AI page](./src/assets/images/Screenshot3.png)
+![Screenshot of Image AI page](./public/images/Screenshot3.png)
 
 ## Code
 
