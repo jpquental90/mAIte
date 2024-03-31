@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import LinearProgress from "@material-ui/core/LinearProgress";
-import Typography from "@material-ui/core/Typography";
+import LinearProgress from "@mui/material/LinearProgress";
+import Typography from "@mui/material/Typography";
 
 function LinearProgressWithLabelI() {
   const [progress, setProgress] = useState(0);
