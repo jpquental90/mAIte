@@ -15,25 +15,9 @@ mAIte is an innovative chatbot project developed for text generation, image gene
 - **Node.js**: The back-end server of mAIte is powered by Node.js, a server-side JavaScript runtime known for its scalability and efficiency.
 - **Axios**: Axios is used in mAIte for making HTTP requests from the front-end to the back-end server, facilitating seamless communication between client and server.
 
-## Getting Started
+## Usage
 
-To run mAIte locally on your machine, follow these steps:
-
-1. **Clone the Repository**: Clone the mAIte repository to your local machine using the following command:
-   git clone https://github.com/Avr99j/m_AI_te
-
-2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies for both the front-end and back-end:
-   cd mAIte
-   npm install
-   cd client
-   npm install
-
-3. **Start the Development Server**: Start the Node.js server and React development server to run the application locally:
-   npm run dev
-
-4. **Access the Application**: Once the servers are running, you can access mAIte by navigating to [http://localhost:5173](http://localhost:5173) in your web browser.
-
-The website is also hoted via netlify at - [https://maite9.netlify.app](https://maite9.netlify.app)
+The website is hosted via Netlify at - [https://maite10.netlify.app/](https://maite10.netlify.app/)
 
 ## Contributing
 
